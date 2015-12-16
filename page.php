@@ -54,6 +54,7 @@ get_header(); ?>
 
     </div><!-- /main-column -->
     
+    <?php get_sidebar(); ?>
     
 </div><!-- /site-content -->
 
